@@ -1,0 +1,20 @@
+.{
+    font-family: Arial, sans-serif;
+}
+
+.title{
+    font-weight: bold;
+}
+.text{
+    color: hsl(0 0 95);
+    background-color: hsl(0 0 10);
+
+}
+
+.muted_text{
+    color: hsl(0 0 70);
+}
+
+.bg-dark{
+    background-color: hsl(0 0 0);
+}
